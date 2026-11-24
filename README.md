@@ -1,4 +1,4 @@
-# Apple Stock Price Prediction
+﻿# Apple Stock Price Prediction
 
 A machine learning project that predicts Apple's stock closing prices for the next 30 trading sessions using historical stock data.
 
